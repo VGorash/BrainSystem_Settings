@@ -3,7 +3,7 @@
 
 ## Пример использования
    
-  constexpr const char* gameNames[3] = {"БЕЗ ОТСЧЕТА", "СВОЯ ИГРА", "БРЕЙН-РИНГ"};
+  	constexpr const char* gameNames[3] = {"БЕЗ ОТСЧЕТА", "СВОЯ ИГРА", "БРЕЙН-РИНГ"};
 	constexpr const char* modeNames[2] = {"БЕЗ ФАЛЬСТАРТОВ", "С ФАЛЬСТАРТАМИ"};
 
 	Settings settings;
